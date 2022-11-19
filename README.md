@@ -2,6 +2,9 @@
 
 this is my first page
 
+
+![Pic1](.gitbook/assets/Pic_GF.jpg)
+
 [https://app.gitbook.com/](https://app.gitbook.com/) sign in via github
 
 [https://github.com/fassbenderg/myDiveIntoTech](https://github.com/fassbenderg/myDiveIntoTech)
